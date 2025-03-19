@@ -1,3 +1,7 @@
+# This script compares the season averages of two NBA players side by side.
+# The user is prompted to enter the names of two players for comparison.
+# The script then fetches the players' season statistics, calculates per-game averages, and saves the comparison to a CSV file.
+
 from nba_api.stats.endpoints import leaguedashplayerstats
 import pandas as pd
 import logging
