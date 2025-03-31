@@ -1,0 +1,96 @@
+Daily NBA Report for 2025-03-18
+==============================
+
+Standout Performances:
+     PLAYER_NAME  PTS  REB  AST  STL  BLK
+      Trae Young 31.0  2.0  8.0  3.0  0.0
+Jimmy Butler III 24.0  8.0 10.0  0.0  0.0
+Donovan Mitchell 18.0  4.0 11.0  0.0  0.0
+   Kawhi Leonard 33.0  7.0  4.0  4.0  0.0
+     Ivica Zubac 28.0 20.0  1.0  0.0  1.0
+
+Game Trends:
+Largest Blowouts:
+Empty DataFrame
+Columns: [GAME_ID, PTS_HOME, PTS_VISITOR, Point Differential]
+Index: []
+
+Closest Games:
+Empty DataFrame
+Columns: [GAME_ID, PTS_HOME, PTS_VISITOR, Point Differential]
+Index: []
+
+Young Players Watch:
+       PLAYER_NAME  PTS  REB  AST
+Zaccharie Risacher 21.0  8.0  2.0
+   Dominick Barlow 12.0  6.0  1.0
+    Nick Smith Jr. 11.0  5.0  4.0
+      Noah Clowney  1.0  2.0  1.0
+      Jordan Walsh  NaN  NaN  NaN
+
+Team Stats:
+             TEAM_NAME  W  L  FG_PCT  REB  AST    TOV
+ Oklahoma City Thunder 56 12   0.479 3042 1810  805.0
+   Cleveland Cavaliers 56 12   0.492 3072 1930  892.0
+        Boston Celtics 50 19   0.461 3093 1775  820.0
+       Houston Rockets 44 25   0.451 3361 1593  966.0
+        Denver Nuggets 44 25   0.506 3157 2149  982.0
+     Memphis Grizzlies 43 26   0.482 3286 1988 1111.0
+       New York Knicks 43 24   0.488 2881 1825  890.0
+    Los Angeles Lakers 42 25   0.478 2861 1764  922.0
+ Golden State Warriors 40 29   0.450 3164 2008  971.0
+Minnesota Timberwolves 40 30   0.463 3082 1812 1016.0
+           LA Clippers 39 30   0.476 3021 1725 1053.0
+       Detroit Pistons 38 31   0.476 3129 1824 1064.0
+        Indiana Pacers 38 29   0.489 2746 1954  897.0
+       Milwaukee Bucks 38 30   0.480 2995 1709  931.0
+      Sacramento Kings 34 33   0.478 2983 1800  904.0
+      Dallas Mavericks 33 36   0.475 2987 1743  953.0
+         Atlanta Hawks 33 36   0.467 3083 2016 1079.0
+          Phoenix Suns 32 37   0.480 2953 1932  970.0
+         Orlando Magic 32 37   0.441 2859 1571  990.0
+Portland Trail Blazers 30 39   0.451 3057 1630 1110.0
+            Miami Heat 29 39   0.457 2942 1782  937.0
+         Chicago Bulls 29 39   0.463 3093 1950  997.0
+     San Antonio Spurs 28 39   0.466 2943 1948  931.0
+       Toronto Raptors 24 45   0.459 3090 1950 1073.0
+    Philadelphia 76ers 23 45   0.456 2677 1561  913.0
+         Brooklyn Nets 23 46   0.439 2836 1732 1037.0
+  New Orleans Pelicans 18 51   0.450 2997 1762  985.0
+     Charlotte Hornets 17 51   0.428 3087 1653 1048.0
+             Utah Jazz 15 54   0.457 3172 1766 1212.0
+    Washington Wizards 15 52   0.438 2965 1708 1063.0
+
+Shooting Efficiency by Zone:
+             Team Name  Restricted Area FG%  In The Paint (Non-RA) FG%  Mid-Range FG%  Left Corner 3 FG%  Right Corner 3 FG%  Corner 3 FG%  Above the Break 3 FG%  Backcourt FG%
+          Phoenix Suns                0.717                      0.465          0.488              0.446               0.403         0.426                  0.364          0.000
+    Los Angeles Lakers                0.716                      0.429          0.412              0.369               0.442         0.401                  0.347          0.000
+        Boston Celtics                0.700                      0.452          0.405              0.365               0.403         0.383                  0.367          0.000
+      Sacramento Kings                0.697                      0.503          0.442              0.409               0.372         0.395                  0.341          0.000
+        Indiana Pacers                0.690                      0.489          0.429              0.405               0.403         0.404                  0.361          0.000
+      Dallas Mavericks                0.688                      0.445          0.403              0.393               0.373         0.384                  0.363          0.000
+     Memphis Grizzlies                0.684                      0.458          0.464              0.368               0.373         0.370                  0.369          0.048
+ Oklahoma City Thunder                0.683                      0.463          0.458              0.372               0.398         0.383                  0.361          0.000
+   Cleveland Cavaliers                0.683                      0.494          0.427              0.413               0.404         0.408                  0.381          0.125
+        Denver Nuggets                0.681                      0.476          0.422              0.462               0.422         0.443                  0.370          0.030
+    Washington Wizards                0.674                      0.380          0.371              0.365               0.338         0.353                  0.335          0.000
+     San Antonio Spurs                0.674                      0.422          0.400              0.378               0.411         0.394                  0.342          0.000
+             Utah Jazz                0.672                      0.461          0.368              0.383               0.427         0.403                  0.336          0.071
+       Milwaukee Bucks                0.672                      0.425          0.451              0.451               0.427         0.439                  0.366          0.182
+Minnesota Timberwolves                0.668                      0.408          0.365              0.404               0.366         0.387                  0.379          0.000
+           LA Clippers                0.667                      0.455          0.426              0.379               0.408         0.394                  0.354          0.000
+       Detroit Pistons                0.664                      0.464          0.415              0.380               0.371         0.375                  0.359          0.000
+       New York Knicks                0.660                      0.474          0.441              0.352               0.404         0.378                  0.372          0.000
+         Orlando Magic                0.658                      0.420          0.395              0.315               0.386         0.348                  0.300          0.000
+ Golden State Warriors                0.657                      0.428          0.376              0.361               0.429         0.394                  0.353          0.067
+            Miami Heat                0.651                      0.447          0.414              0.398               0.362         0.382                  0.351          0.000
+         Atlanta Hawks                0.648                      0.444          0.401              0.404               0.411         0.408                  0.334          0.056
+    Philadelphia 76ers                0.643                      0.425          0.410              0.381               0.388         0.385                  0.340          0.000
+       Houston Rockets                0.641                      0.398          0.404              0.368               0.373         0.371                  0.342          0.000
+         Brooklyn Nets                0.629                      0.384          0.433              0.329               0.350         0.340                  0.351          0.000
+         Chicago Bulls                0.626                      0.489          0.379              0.425               0.337         0.386                  0.357          0.077
+  New Orleans Pelicans                0.624                      0.412          0.407              0.399               0.334         0.366                  0.341          0.000
+Portland Trail Blazers                0.624                      0.370          0.436              0.333               0.375         0.356                  0.345          0.059
+       Toronto Raptors                0.622                      0.426          0.395              0.374               0.405         0.389                  0.334          0.000
+     Charlotte Hornets                0.617                      0.389          0.381              0.358               0.378         0.367                  0.332          0.000
+
